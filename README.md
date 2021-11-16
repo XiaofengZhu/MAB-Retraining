@@ -1,2 +1,2 @@
-# MAB-Retraining
-IEEE Big Data 2021 Paper Submission
+# Continual Neural Network Model Retraining
+Accepted at IEEE Big Data 2021
